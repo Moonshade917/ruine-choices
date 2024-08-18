@@ -1,0 +1,1 @@
+Un mod pour choisir le bonus donnés par les ruines
