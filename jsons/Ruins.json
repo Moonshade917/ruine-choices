@@ -1,0 +1,70 @@
+[
+    {
+        "name": "discover cultural artifacts",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "squatters willing to work for you",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+    },
+    {
+        "name": "squatters wishing to settle under your rule",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
+    },
+    {
+        "name": "your exploring unit receives training",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"]
+    },
+    {
+        "name": "survivors (adds population to a city)",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"], 
+		"color": "#81c784"
+    },
+    {
+        "name": "a stash of gold",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "discover a lost technology",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+		"color": "#7f7fff"
+    },
+    {
+        "name": "advanced weaponry for your explorer",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"]
+    },
+    {
+        "name": "reveal nearby Barbarian camps",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"]
+    },
+    {
+        "name": "find a crudely-drawn map",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"]
+    },
+    {
+        "name": "discover holy symbols",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+		"color": "#CDDDF4"
+    },
+    {
+        "name": "an ancient prophecy",
+        "notification": "Vous avez découvert une ruine",
+        "uniques": ["Triggers a [ruine] event"],
+		"color": "#CDDDF4"
+    }
+]
